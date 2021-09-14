@@ -3,7 +3,7 @@ This repository is having ipynb file and csv file of Olympics Assignment which w
 # About Assignment
 The assignment is about the Summer Olympics where Data Analysis is done using python program. Pandas library , matplotlib.pyplot library and seaborn library had been used.
 # Introduction
-My name is Ishita Bhatia and I am pursuing my BTech fron The NorthCap University. I am completing my internship fron the Elite Techno Groups. Learning and upskilling my skills.
+My name is Ishita Bhatia and I am pursuing my BTech fron The NorthCap University. I am completing my internship from the Elite Techno Groups. Learning and upskilling my skills.
 # Quick Links
 LinkedIn - https://www.linkedin.com/in/ishita-bhatia-689b661b7/
 
